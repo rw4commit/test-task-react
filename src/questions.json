@@ -1,0 +1,35 @@
+[
+  {
+    "title": "What is the capital of England?",
+    "outlinedWords": ["capital", "England"],
+    "answers": [
+      "Paris",
+      "Tel-Aviv",
+      "London",
+      "Moscow"
+    ],
+    "correct": "London"
+  },
+  {
+    "title": "What is the capital of Israel?",
+    "outlinedWords": ["capital", "Israel"],
+    "answers": [
+      "Paris",
+      "Tel-Aviv",
+      "London",
+      "Jerusalem"
+    ],
+    "correct": "Jerusalem"
+  },
+  {
+    "title": "What is the best framework?",
+    "outlinedWords": ["best", "framework"],
+    "answers": [
+      "Angular",
+      "React",
+      "VueJS",
+      "This is holywar topic"
+    ],
+    "correct": "This is holywar topic"
+  }
+]
